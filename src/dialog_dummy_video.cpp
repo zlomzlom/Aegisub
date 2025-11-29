@@ -68,18 +68,18 @@ struct ResolutionShortcut {
 };
 
 static ResolutionShortcut resolutions[] = {
-	{L"640\u00D7480 (SD fullscreen)", 640, 480},        // U+00D7 multiplication sign
-	{L"704\u00D7480 (SD anamorphic)", 704, 480},
-	{L"640\u00D7360 (SD widescreen)", 640, 360},
-	{L"704\u00D7396 (SD widescreen)", 704, 396},
-	{L"640\u00D7352 (SD widescreen MOD16)", 640, 352},
-	{L"704\u00D7400 (SD widescreen MOD16)", 704, 400},
-	{L"1024\u00D7576 (SuperPAL widescreen)", 1024, 576},
-	{L"1280\u00D7720 (HD 720p)", 1280, 720},
-	{L"1920\u00D71080 (FHD 1080p)", 1920, 1080},
-	{L"2560\u00D71440 (QHD 1440p)", 2560, 1440},
-	{L"3840\u00D72160 (4K UHD 2160p)", 3840, 2160},
-    {L"1080\u00D71920 (FHD vertical)", 1080, 1920},
+	{_(L"640\u00D7480 (SD fullscreen)"), 640, 480},        // U+00D7 multiplication sign
+	{_(L"704\u00D7480 (SD anamorphic)"), 704, 480},
+	{_(L"640\u00D7360 (SD widescreen)"), 640, 360},
+	{_(L"704\u00D7396 (SD widescreen)"), 704, 396},
+	{_(L"640\u00D7352 (SD widescreen MOD16)"), 640, 352},
+	{_(L"704\u00D7400 (SD widescreen MOD16)"), 704, 400},
+	{_(L"1024\u00D7576 (SuperPAL widescreen)"), 1024, 576},
+	{_(L"1280\u00D7720 (HD 720p)"), 1280, 720},
+	{_(L"1920\u00D71080 (FHD 1080p)"), 1920, 1080},
+	{_(L"2560\u00D71440 (QHD 1440p)"), 2560, 1440},
+	{_(L"3840\u00D72160 (4K UHD 2160p)"), 3840, 2160},
+    {_(L"1080\u00D71920 (FHD vertical)"), 1080, 1920},
 };
 
 wxSpinCtrl *spin_ctrl(wxWindow *parent, int min, int max, int *value) {
@@ -92,7 +92,7 @@ wxComboBox *resolution_shortcuts(wxWindow *parent, int width, int height) {
 	wxComboBox *ctrl = new wxComboBox(parent, -1, "", wxDefaultPosition, wxDefaultSize, 0, nullptr, wxCB_READONLY);
 
 	for (auto const& res : resolutions) {
-		ctrl->Append(res.name);
+		ctrl->Append(_(res.name));
 		if (res.width == width && res.height == height)
 			ctrl->SetSelection(ctrl->GetCount() - 1);
 	}
