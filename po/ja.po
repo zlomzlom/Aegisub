@@ -2604,7 +2604,7 @@ msgstr ""
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "現在のポジションから再生"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2770,7 +2770,7 @@ msgstr "直線"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "直線を引きます"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2778,7 +2778,7 @@ msgstr "3次曲線"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "3次曲線を引きます"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2786,7 +2786,7 @@ msgstr "変換"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "頂点数を変更して直線と曲線を変換します"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2794,7 +2794,7 @@ msgstr "挿入"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "頂点を追加します"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2802,7 +2802,7 @@ msgstr "削除"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "頂点を削除します"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2810,7 +2810,7 @@ msgstr "フリーハンド - 直線"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "フリーハンドで多角形を描きます"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2818,7 +2818,7 @@ msgstr "フリーハンド - 3次曲線"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "フリーハンドで曲線の図形を描きます"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7017,30 +7017,6 @@ msgid ""
 "no warranties of any kind are given either.%n%nSee the Aegisub website for "
 "information on obtaining the source code."
 msgstr ""
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "現在のポジションから再生"
-
-#~ msgid "Appends a line"
-#~ msgstr "直線を引きます"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "3次曲線を引きます"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "頂点数を変更して直線と曲線を変換します"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "頂点を追加します"
-
-#~ msgid "Removes a control point"
-#~ msgstr "頂点を削除します"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "フリーハンドで多角形を描きます"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "フリーハンドで曲線の図形を描きます"
 
 #~ msgid "Kanji timing"
 #~ msgstr "漢字タイマー"

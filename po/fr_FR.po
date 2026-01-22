@@ -2690,7 +2690,7 @@ msgstr "Lire"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Lire la vidéo depuis cette position"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2855,7 +2855,7 @@ msgstr "Ligne"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Ajoute une ligne"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2863,7 +2863,7 @@ msgstr "Cubique"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Ajoute une courbe de Bézier cubique"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2871,7 +2871,7 @@ msgstr "Convertir"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Convertit un segment ligne et cubique"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2879,7 +2879,7 @@ msgstr "Insérer"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Insère un point de contrôle"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2887,7 +2887,7 @@ msgstr "Retirer"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Retire un point de contrôle"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2895,7 +2895,7 @@ msgstr "Forme libre"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Dessine une forme libre"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2903,7 +2903,7 @@ msgstr "Forme libre adoucie"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Dessine une forme libre adoucie"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7201,30 +7201,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Ouvrir un fichier vidéo"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Lire la vidéo depuis cette position"
-
-#~ msgid "Appends a line"
-#~ msgstr "Ajoute une ligne"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Ajoute une courbe de Bézier cubique"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Convertit un segment ligne et cubique"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Insère un point de contrôle"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Retire un point de contrôle"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Dessine une forme libre"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Dessine une forme libre adoucie"
 
 #, c-format
 #~ msgid ""

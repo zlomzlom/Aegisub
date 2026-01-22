@@ -2615,7 +2615,7 @@ msgstr "播放"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "從該位置開始播放視訊"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2778,7 +2778,7 @@ msgstr "直線"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "新增一條直線"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2786,7 +2786,7 @@ msgstr "兩次立方曲線"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "新增一條雙三次貝茲曲線"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2794,7 +2794,7 @@ msgstr "轉換"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "將一條線段在直線和曲線之間轉換"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2802,7 +2802,7 @@ msgstr "插入"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "插入一個控制點"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2810,7 +2810,7 @@ msgstr "移除"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "移除一個控制點"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2818,7 +2818,7 @@ msgstr "手繪"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "畫一個手繪形狀"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2826,7 +2826,7 @@ msgstr "平滑手繪"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "畫一個平滑的手繪形狀"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7038,30 +7038,6 @@ msgstr ""
 "GNU通用公共許可證第二版(GPLv2)，這意味著您可以將該應用程式用於任何目的而不需"
 "要支付費用，但同時也不會得到任何形式的擔保。%n%n您可以到Aegisub官網取得原始程"
 "式碼資訊。"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "從該位置開始播放視訊"
-
-#~ msgid "Appends a line"
-#~ msgstr "新增一條直線"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "新增一條雙三次貝茲曲線"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "將一條線段在直線和曲線之間轉換"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "插入一個控制點"
-
-#~ msgid "Removes a control point"
-#~ msgstr "移除一個控制點"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "畫一個手繪形狀"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "畫一個平滑的手繪形狀"
 
 #, c-format
 #~ msgid ""

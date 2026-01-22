@@ -2616,7 +2616,7 @@ msgstr "Přehrát"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Přehrát video od této pozice"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2781,7 +2781,7 @@ msgstr "čára"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Přidá čáru"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2789,7 +2789,7 @@ msgstr "Bikubická křivka"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Přidá Bézierovu bikubickou křivku"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2797,7 +2797,7 @@ msgstr "Převést"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Převede úsek na čáru nebo kubickou křivku"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2805,7 +2805,7 @@ msgstr "Vložit"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Vloží řídící bód"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2813,7 +2813,7 @@ msgstr "Odebrat"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Odebere řídící bod"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2821,7 +2821,7 @@ msgstr "Kresba"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Nakreslí libovolný tvar"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2829,7 +2829,7 @@ msgstr "Vyhlazená kresba"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Nakreslí vyhlazený tvar"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7093,30 +7093,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Otevřít video"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Přehrát video od této pozice"
-
-#~ msgid "Appends a line"
-#~ msgstr "Přidá čáru"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Přidá Bézierovu bikubickou křivku"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Převede úsek na čáru nebo kubickou křivku"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Vloží řídící bód"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Odebere řídící bod"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Nakreslí libovolný tvar"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Nakreslí vyhlazený tvar"
 
 #, c-format
 #~ msgid ""

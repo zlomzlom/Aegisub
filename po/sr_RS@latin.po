@@ -2613,7 +2613,7 @@ msgstr "Pusti"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Pustite video-snimak počev od ovog položaja."
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2778,7 +2778,7 @@ msgstr "Titl"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Zakačite titl."
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2786,7 +2786,7 @@ msgstr "Bikubno"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Zakačite Bezijerove i kubne krive."
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2794,7 +2794,7 @@ msgstr "Pretvori"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Pretvorite delove između titla i kuba."
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2802,7 +2802,7 @@ msgstr "Unesi"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Unesite upravljačku tačku."
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2810,7 +2810,7 @@ msgstr "Ukloni"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Uklonite upravljačku tačku."
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2818,7 +2818,7 @@ msgstr "Slobodnom rukom"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Nacrtajte oblik slobodnom rukom."
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2826,7 +2826,7 @@ msgstr "Ugladi slobodnom rukom"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Nacrtajte uglađeni oblik slobodnom rukom."
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7066,30 +7066,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Otvaranje video-snimka"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Pustite video-snimak počev od ovog položaja."
-
-#~ msgid "Appends a line"
-#~ msgstr "Zakačite titl."
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Zakačite Bezijerove i kubne krive."
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Pretvorite delove između titla i kuba."
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Unesite upravljačku tačku."
-
-#~ msgid "Removes a control point"
-#~ msgstr "Uklonite upravljačku tačku."
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Nacrtajte oblik slobodnom rukom."
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Nacrtajte uglađeni oblik slobodnom rukom."
 
 #, c-format
 #~ msgid ""

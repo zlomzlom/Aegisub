@@ -2614,7 +2614,7 @@ msgstr "تشغيل"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "تشغيل الفيديو بداية من هذا الموضع"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2801,7 +2801,7 @@ msgstr "إدراج"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "يدرج نقطة تحكّم"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2809,7 +2809,7 @@ msgstr "إزالة"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "يزيل نقطة تحكّم"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2817,7 +2817,7 @@ msgstr "رسم يدوي"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "يرسم شكلًا برسم يدوي"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -7038,18 +7038,6 @@ msgid ""
 "no warranties of any kind are given either.%n%nSee the Aegisub website for "
 "information on obtaining the source code."
 msgstr ""
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "تشغيل الفيديو بداية من هذا الموضع"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "يدرج نقطة تحكّم"
-
-#~ msgid "Removes a control point"
-#~ msgstr "يزيل نقطة تحكّم"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "يرسم شكلًا برسم يدوي"
 
 #, c-format
 #~ msgid ""

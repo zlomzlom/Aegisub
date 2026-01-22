@@ -2640,7 +2640,7 @@ msgstr "Afspelen"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Video beginnen afspelen op deze positie"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2805,7 +2805,7 @@ msgstr "Lijn"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Voegt een lijn in"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2813,7 +2813,7 @@ msgstr "Bikubisch"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Voegt een bikubische bézierkromme toe"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2821,7 +2821,7 @@ msgstr "Converteren"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Converteert een segment tussen lijn en bikubisch"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2829,7 +2829,7 @@ msgstr "Invoegen"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Voegt een bedieningspunt in"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2837,7 +2837,7 @@ msgstr "Verwijderen"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Verwijdert een bedieningspunt"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2845,7 +2845,7 @@ msgstr "Vrije hand"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Tekent een vorm met de vrije hand"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2853,7 +2853,7 @@ msgstr "Vrije hand effen"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Tekent een effen vrijehand-vorm"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7125,30 +7125,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Videobestand openen"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Video beginnen afspelen op deze positie"
-
-#~ msgid "Appends a line"
-#~ msgstr "Voegt een lijn in"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Voegt een bikubische bézierkromme toe"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Converteert een segment tussen lijn en bikubisch"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Voegt een bedieningspunt in"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Verwijdert een bedieningspunt"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Tekent een vorm met de vrije hand"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Tekent een effen vrijehand-vorm"
 
 #, c-format
 #~ msgid ""

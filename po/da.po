@@ -2612,7 +2612,7 @@ msgstr ""
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Afspil video fra aktuel position"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2777,7 +2777,7 @@ msgstr "Linjestykke"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Tilføjer et linjestykke"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2785,7 +2785,7 @@ msgstr "Bézier-kurve"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Tilføjer en bikubisk Bézier-kurve"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2793,7 +2793,7 @@ msgstr "Konverter"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Konverterer et segment mellem linjestykke og Bézier-kurve"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2801,7 +2801,7 @@ msgstr "Indsæt"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Indsætter et kontrolpunkt"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2809,7 +2809,7 @@ msgstr "Fjern"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Fjerner et kontrolpunkt"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2817,7 +2817,7 @@ msgstr "Frihånd"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Tegn med frihånd"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2825,7 +2825,7 @@ msgstr "Udglattet frihånd"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Tegn med frihånd, udglatter resultatet"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7032,30 +7032,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Åben videofil"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Afspil video fra aktuel position"
-
-#~ msgid "Appends a line"
-#~ msgstr "Tilføjer et linjestykke"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Tilføjer en bikubisk Bézier-kurve"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Konverterer et segment mellem linjestykke og Bézier-kurve"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Indsætter et kontrolpunkt"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Fjerner et kontrolpunkt"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Tegn med frihånd"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Tegn med frihånd, udglatter resultatet"
 
 #~ msgid "Export subtitles file"
 #~ msgstr "Eksporter undertekstfil"

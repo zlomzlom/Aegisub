@@ -2663,7 +2663,7 @@ msgstr "Прайграць"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Прайграць відэа з бягучай пазіцыі"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2828,7 +2828,7 @@ msgstr "Радок"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Дадаць прамую"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2836,7 +2836,7 @@ msgstr "Крывая"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Канвертаваць крывую Без'е"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2844,7 +2844,7 @@ msgstr "Канвертаваць"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Канвертаваць сегмент з прамой у крывую Без'е і назад"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2852,7 +2852,7 @@ msgstr "Уставіць"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Уставіць кантрольны пункт"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2860,7 +2860,7 @@ msgstr "Выдаліць"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Выдаліць кантрольны пункт"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2868,7 +2868,7 @@ msgstr "Ад рукі"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Рысаваць контур ад рукі"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2876,7 +2876,7 @@ msgstr "Ад рукі згладжана"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Рысаваць згладжаны контур ад рукі"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7167,30 +7167,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Адкрыць відэафайл"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Прайграць відэа з бягучай пазіцыі"
-
-#~ msgid "Appends a line"
-#~ msgstr "Дадаць прамую"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Канвертаваць крывую Без'е"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Канвертаваць сегмент з прамой у крывую Без'е і назад"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Уставіць кантрольны пункт"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Выдаліць кантрольны пункт"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Рысаваць контур ад рукі"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Рысаваць згладжаны контур ад рукі"
 
 #, c-format
 #~ msgid ""

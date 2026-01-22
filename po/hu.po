@@ -2643,7 +2643,7 @@ msgstr "Lejátszás"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Videó lejátszása a jelenlegi pozíciótól."
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2808,7 +2808,7 @@ msgstr "Egyenes"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Egyenes beszúrása"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2816,7 +2816,7 @@ msgstr "Ív"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Ív beszúrása"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2824,7 +2824,7 @@ msgstr "Váltás"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Egyenes és ív típusú szegmens közötti váltás"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2832,7 +2832,7 @@ msgstr "Beszúrás"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Vezérlőpont beszúrása"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2840,7 +2840,7 @@ msgstr "Eltávolítás"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Vezérlőpont eltávolítása"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2848,7 +2848,7 @@ msgstr "Szabadkézi"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Szabadkézi forma rajzolása"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2856,7 +2856,7 @@ msgstr "Szabadkézi ívelt"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Ívelt szabadkézi forma rajzolása"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7137,30 +7137,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Videofájl megnyitása"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Videó lejátszása a jelenlegi pozíciótól."
-
-#~ msgid "Appends a line"
-#~ msgstr "Egyenes beszúrása"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Ív beszúrása"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Egyenes és ív típusú szegmens közötti váltás"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Vezérlőpont beszúrása"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Vezérlőpont eltávolítása"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Szabadkézi forma rajzolása"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Ívelt szabadkézi forma rajzolása"
 
 #, c-format
 #~ msgid ""

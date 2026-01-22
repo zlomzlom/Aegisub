@@ -2602,7 +2602,7 @@ msgstr ""
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Odtwórz wideo zaczynając w tym miejscu"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2767,7 +2767,7 @@ msgstr "Linia"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Dołącza linię"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2775,7 +2775,7 @@ msgstr "Krzywa"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Dołącza krzywa Beziera"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2783,7 +2783,7 @@ msgstr "Konwertuj"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Konwertuje odcinek na linie lub krzywą Beziera"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2791,7 +2791,7 @@ msgstr "Wstaw"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Wstawia punkt kontrolny"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2799,7 +2799,7 @@ msgstr "Usuń"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Usuwa punkty kontrolny"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2807,7 +2807,7 @@ msgstr "Odręcznie"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Rysuje odręczną figurę"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2815,7 +2815,7 @@ msgstr "Odręcznie wygładzone"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Rysuje wygładzoną odręczną figurę"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7022,30 +7022,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Otwórz plik wideo"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Odtwórz wideo zaczynając w tym miejscu"
-
-#~ msgid "Appends a line"
-#~ msgstr "Dołącza linię"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Dołącza krzywa Beziera"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Konwertuje odcinek na linie lub krzywą Beziera"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Wstawia punkt kontrolny"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Usuwa punkty kontrolny"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Rysuje odręczną figurę"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Rysuje wygładzoną odręczną figurę"
 
 #~ msgid "Export subtitles file"
 #~ msgstr "Eksportuje pliku napisów"

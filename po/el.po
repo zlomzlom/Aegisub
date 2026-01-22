@@ -2696,7 +2696,7 @@ msgstr "Αναπαραγωγή"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Αναπαραγωγή βίντεο ξεκινώντας από αυτή τη θέση"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2861,7 +2861,7 @@ msgstr "Γραμμή"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Προσθέτει μία γραμμή"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2869,7 +2869,7 @@ msgstr "Bicubic"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Προσθέτει μια καμπύλη bezier bicubic"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2877,7 +2877,7 @@ msgstr "Μετατροπή"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Μετατρέπει ένα τμήμα ανάμεσα σε μια γραμμή και μια καμπύλη bicubic"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2885,7 +2885,7 @@ msgstr "Εισαγωγή"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Εισάγει ένα σημείο ελέγχου"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2893,7 +2893,7 @@ msgstr "Αφαίρεση"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Αφαιρεί ένα σημείο ελέγχου"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2901,7 +2901,7 @@ msgstr "Ελεύθερη Σχεδίαση"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Σχεδίαση ενός σχήματος με ελεύθερη σχεδίαση"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2909,7 +2909,7 @@ msgstr "Ελεύθερη σχεδίαση ομαλού σχήματος"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Σχεδίαση ενός ομαλού σχήματος με ελεύθερη σχεδίαση"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7221,30 +7221,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Άνοιγμα αρχείου βίντεο"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Αναπαραγωγή βίντεο ξεκινώντας από αυτή τη θέση"
-
-#~ msgid "Appends a line"
-#~ msgstr "Προσθέτει μία γραμμή"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Προσθέτει μια καμπύλη bezier bicubic"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Μετατρέπει ένα τμήμα ανάμεσα σε μια γραμμή και μια καμπύλη bicubic"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Εισάγει ένα σημείο ελέγχου"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Αφαιρεί ένα σημείο ελέγχου"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Σχεδίαση ενός σχήματος με ελεύθερη σχεδίαση"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Σχεδίαση ενός ομαλού σχήματος με ελεύθερη σχεδίαση"
 
 #, c-format
 #~ msgid ""

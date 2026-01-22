@@ -2662,7 +2662,7 @@ msgstr "Irakurri"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Bideo irakurketa hemen hasten da"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2827,7 +2827,7 @@ msgstr "Lerroa"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Lerro bat eransten du"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2835,7 +2835,7 @@ msgstr "Bikubikoa"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Bezier bihurgune bikubikoa eransten du"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2843,7 +2843,7 @@ msgstr "Bihurtu"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Segmetu bat lerro eta bikubiko artean bihurtzen du"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2851,7 +2851,7 @@ msgstr "Txertatu"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Kontrol puntu bat gehitzen du"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2859,7 +2859,7 @@ msgstr "Kendu"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Kontrol puntu bat kentzen du"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2867,7 +2867,7 @@ msgstr "Eskuz"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Eskuzko itzal bat marrazten du"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2875,7 +2875,7 @@ msgstr "Eskuzko lehuna"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Eskuzko itzal lehun bat marrazten du"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7159,30 +7159,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Ireki bideo agiria"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Bideo irakurketa hemen hasten da"
-
-#~ msgid "Appends a line"
-#~ msgstr "Lerro bat eransten du"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Bezier bihurgune bikubikoa eransten du"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Segmetu bat lerro eta bikubiko artean bihurtzen du"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Kontrol puntu bat gehitzen du"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Kontrol puntu bat kentzen du"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Eskuzko itzal bat marrazten du"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Eskuzko itzal lehun bat marrazten du"
 
 #, c-format
 #~ msgid ""

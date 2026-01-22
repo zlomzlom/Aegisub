@@ -2671,7 +2671,7 @@ msgstr "Phát"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Phát video bắt đầu từ vị trí này"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2836,7 +2836,7 @@ msgstr "Đường"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Ghép nối một đường"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2844,7 +2844,7 @@ msgstr "Song lập phương"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Ghép nối một đường cong song lập phương Bezier"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2852,7 +2852,7 @@ msgstr "Chuyển đổi"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Chuyển đổi một đoạn giữa đường và song lập phương"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2860,7 +2860,7 @@ msgstr "Chèn"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Chèn một điểm điều khiển"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2868,7 +2868,7 @@ msgstr "Xóa"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Xóa một điểm điều khiển"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2876,7 +2876,7 @@ msgstr "Vẽ tay"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Vẽ một hình vẽ tay"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2884,7 +2884,7 @@ msgstr "Vẽ tay mượt mà"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Vẽ một hình vẽ tay mượt mà"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7155,30 +7155,6 @@ msgstr ""
 "Có nghĩa là bạn có thể dùng ứng dụng này cho bất kì mục đích nào mà không "
 "cần có phí, nhưng sẽ không có bảo hành hoặc bất kì những cái tương tự. %n%n "
 "Xem website của Aegisub để có thêm thông tin về việc tải về mã nguồn."
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Phát video bắt đầu từ vị trí này"
-
-#~ msgid "Appends a line"
-#~ msgstr "Ghép nối một đường"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Ghép nối một đường cong song lập phương Bezier"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Chuyển đổi một đoạn giữa đường và song lập phương"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Chèn một điểm điều khiển"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Xóa một điểm điều khiển"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Vẽ một hình vẽ tay"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Vẽ một hình vẽ tay mượt mà"
 
 #, c-format
 #~ msgid ""

@@ -2648,7 +2648,7 @@ msgstr "Putar"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Putar video dimulai pada posisi ini"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2813,7 +2813,7 @@ msgstr "Garis Lurus"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Buat garis lurus"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2821,7 +2821,7 @@ msgstr "Lengkung"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Buat garis melengkung."
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2829,7 +2829,7 @@ msgstr "Ubah"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Ubah antara garis lurus dan garis melengkung"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2837,7 +2837,7 @@ msgstr "Sisipkan"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Sisipkan poin kontrol"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2845,7 +2845,7 @@ msgstr "Hapus"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Hapus poin kontrol"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2853,7 +2853,7 @@ msgstr "Gambar bebas"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Buat garis lurus bebas"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2861,7 +2861,7 @@ msgstr "Gambar bebas yang halus"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Buat garis lurus bebas yang halus"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7131,30 +7131,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Buka berkas vdeo"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Putar video dimulai pada posisi ini"
-
-#~ msgid "Appends a line"
-#~ msgstr "Buat garis lurus"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Buat garis melengkung."
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Ubah antara garis lurus dan garis melengkung"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Sisipkan poin kontrol"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Hapus poin kontrol"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Buat garis lurus bebas"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Buat garis lurus bebas yang halus"
 
 #, c-format
 #~ msgid ""

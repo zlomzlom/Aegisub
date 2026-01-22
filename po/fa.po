@@ -2599,7 +2599,7 @@ msgstr ""
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "پخش ویدیو از این نقطه "
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2764,7 +2764,7 @@ msgstr "خط"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "پیوست یک خط"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2772,7 +2772,7 @@ msgstr "چند ضلعی"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Appends a bezier bicubic curve"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2780,7 +2780,7 @@ msgstr "تبدیل"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "یک بخش را بین خط و خط ضلعی تبدیل میکند"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2788,7 +2788,7 @@ msgstr "وارد کردن"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "وارد کردن یک نقطه کنترل"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2796,7 +2796,7 @@ msgstr "حذف"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "حذف یک نقطه کنترل"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2804,7 +2804,7 @@ msgstr "دست آزاد"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "طراحی شکل یه صورت دست آزاد"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2812,7 +2812,7 @@ msgstr "صاف کردن دست آزاد"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "اشکالی با خطوط صاف در حالت دست آزاد میکشد"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -6993,30 +6993,6 @@ msgid ""
 "no warranties of any kind are given either.%n%nSee the Aegisub website for "
 "information on obtaining the source code."
 msgstr ""
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "پخش ویدیو از این نقطه "
-
-#~ msgid "Appends a line"
-#~ msgstr "پیوست یک خط"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Appends a bezier bicubic curve"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "یک بخش را بین خط و خط ضلعی تبدیل میکند"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "وارد کردن یک نقطه کنترل"
-
-#~ msgid "Removes a control point"
-#~ msgstr "حذف یک نقطه کنترل"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "طراحی شکل یه صورت دست آزاد"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "اشکالی با خطوط صاف در حالت دست آزاد میکشد"
 
 #~ msgid "Kanji timing"
 #~ msgstr "کانجی زمانبندی"

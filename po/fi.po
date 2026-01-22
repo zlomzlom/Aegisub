@@ -2674,7 +2674,7 @@ msgstr "Toista"
 
 #: ../src/command/video.cpp:635
 msgid "Play the video starting on this position"
-msgstr ""
+msgstr "Toista video"
 
 #: ../src/command/video.cpp:645 ../src/command/video.cpp:646
 msgid "Play line"
@@ -2839,7 +2839,7 @@ msgstr "Viiva"
 
 #: ../src/command/vis_tool.cpp:141
 msgid "Append a line"
-msgstr ""
+msgstr "Kaartaa viivaa"
 
 #: ../src/command/vis_tool.cpp:146 ../src/command/vis_tool.cpp:147
 msgid "Bicubic"
@@ -2847,7 +2847,7 @@ msgstr "Kolmiokäyrä"
 
 #: ../src/command/vis_tool.cpp:148
 msgid "Append a bezier bicubic curve"
-msgstr ""
+msgstr "Muodostaa kolmion kahden pisteen välille Bézier-käyrän"
 
 #: ../src/command/vis_tool.cpp:153 ../src/command/vis_tool.cpp:154
 msgid "Convert"
@@ -2855,7 +2855,7 @@ msgstr "Muunna"
 
 #: ../src/command/vis_tool.cpp:155
 msgid "Convert a segment between line and bicubic"
-msgstr ""
+msgstr "Muotoilee kahden pisteen välistä viivaa"
 
 #: ../src/command/vis_tool.cpp:160 ../src/command/vis_tool.cpp:161
 msgid "Insert"
@@ -2863,7 +2863,7 @@ msgstr "Lisää"
 
 #: ../src/command/vis_tool.cpp:162
 msgid "Insert a control point"
-msgstr ""
+msgstr "Lisää ohjauspisteen"
 
 #: ../src/command/vis_tool.cpp:167 ../src/command/vis_tool.cpp:168
 msgid "Remove"
@@ -2871,7 +2871,7 @@ msgstr "Poista"
 
 #: ../src/command/vis_tool.cpp:169
 msgid "Remove a control point"
-msgstr ""
+msgstr "Poistaa ohjauspisteen"
 
 #: ../src/command/vis_tool.cpp:174 ../src/command/vis_tool.cpp:175
 msgid "Freehand"
@@ -2879,7 +2879,7 @@ msgstr "Vapaalla kädellä"
 
 #: ../src/command/vis_tool.cpp:176
 msgid "Draw a freehand shape"
-msgstr ""
+msgstr "Vapaalla kädellä piirtäen kulmikas muoto"
 
 #: ../src/command/vis_tool.cpp:181 ../src/command/vis_tool.cpp:182
 msgid "Freehand smooth"
@@ -2887,7 +2887,7 @@ msgstr "Vapaalla kädellä pyöristetty"
 
 #: ../src/command/vis_tool.cpp:183
 msgid "Draw a smoothed freehand shape"
-msgstr ""
+msgstr "Vapaalla kädellä piirtäen pyöristetty muoto"
 
 #: ../src/dialog_about.cpp:46
 msgid "Translated into LANGUAGE by PERSON\n"
@@ -7229,30 +7229,6 @@ msgstr ""
 
 #~ msgid "Open video file"
 #~ msgstr "Avaa videotiedosto"
-
-#~ msgid "Play video starting on this position"
-#~ msgstr "Toista video"
-
-#~ msgid "Appends a line"
-#~ msgstr "Kaartaa viivaa"
-
-#~ msgid "Appends a bezier bicubic curve"
-#~ msgstr "Muodostaa kolmion kahden pisteen välille Bézier-käyrän"
-
-#~ msgid "Converts a segment between line and bicubic"
-#~ msgstr "Muotoilee kahden pisteen välistä viivaa"
-
-#~ msgid "Inserts a control point"
-#~ msgstr "Lisää ohjauspisteen"
-
-#~ msgid "Removes a control point"
-#~ msgstr "Poistaa ohjauspisteen"
-
-#~ msgid "Draws a freehand shape"
-#~ msgstr "Vapaalla kädellä piirtäen kulmikas muoto"
-
-#~ msgid "Draws a smoothed freehand shape"
-#~ msgstr "Vapaalla kädellä piirtäen pyöristetty muoto"
 
 #, c-format
 #~ msgid ""
