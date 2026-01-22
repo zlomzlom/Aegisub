@@ -6058,6 +6058,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Промяната на тези настройки може породи сбой на програмата. Не ги "
+"променяйте, ако не сте сигурни в това, което вършите."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7209,13 +7211,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Ако е маркирано, вместо контур за субтитрите, ще се появи правоъгълник"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Промяната на тези настройки може породи сбой на програмата. Не ги "
-#~ "променяйте, ако не сте сигурни в това, което вършите."
-
 #~ msgid "Drawings"
 #~ msgstr "Изображения"
 
@@ -7225,3 +7220,4 @@ msgstr ""
 #~ msgstr ""
 #~ "Безплатен, крос-платформен инструмент с отворен код за създаване и "
 #~ "модифициране на субтитри"
+

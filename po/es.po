@@ -6123,6 +6123,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Cambiar estas configuraciones podría resultar en defectos y/o fallos "
+"graves. No toques nada a menos que sepas bien lo que estés haciendo."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7263,12 +7265,6 @@ msgstr ""
 #~ "Si esta seleccionado, muestra una caja opaca detrás de los subtítulos en "
 #~ "lugar de un contorno alrededor del texto"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Cambiar estas configuraciones podría resultar en defectos y/o fallos "
-#~ "graves. No toques nada a menos que sepas bien lo que estés haciendo."
-
 #~ msgid "Drawings"
 #~ msgstr "Dibujos"
+

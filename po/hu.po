@@ -6048,6 +6048,9 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Az itt felsorolt beállítások megváltoztatása hibákat, lefagyásokat, nem "
+"megszokott működést eredményezhet.\n"
+"Ne nyúljon ezekhez csak, ha tudja, mit csinál!"
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7185,13 +7188,6 @@ msgstr ""
 #~ "Jelölje be, ha körvonal helyett teljesen kitöltött hátteret szeretne "
 #~ "látni."
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Az itt felsorolt beállítások megváltoztatása hibákat, lefagyásokat, nem "
-#~ "megszokott működést eredményezhet.\n"
-#~ "Ne nyúljon ezekhez csak, ha tudja, mit csinál!"
-
 #~ msgid "Drawings"
 #~ msgstr "Rajzok"
+

@@ -6086,6 +6086,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Wenn Sie diese Einstellungen ändern, könnte das zu Bugs und/oder "
+"Abstürzen führen. Ändern Sie nur etwas, wenn Sie wissen, was Sie tun."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7224,12 +7226,6 @@ msgstr ""
 #~ "Zeigt statt einer Umrandung einen undurchsichtigen Kasten hinter den "
 #~ "Untertiteln an"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Wenn Sie diese Einstellungen ändern, könnte das zu Bugs und/oder "
-#~ "Abstürzen führen. Ändern Sie nur etwas, wenn Sie wissen, was Sie tun."
-
 #~ msgid "Drawings"
 #~ msgstr "Formen"
+

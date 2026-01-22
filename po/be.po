@@ -6083,6 +6083,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Змена гэтых налад можа выклікаць некарэктную працу праграмы. Не змяняйце "
+"іх, калі сапраўды не ўпэўнены ў тым, што робіце."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7213,12 +7215,6 @@ msgstr ""
 #~ "outline around the text"
 #~ msgstr "Калі ўключана, будзе паказвацца непразрыстая рамка замест контуру"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Змена гэтых налад можа выклікаць некарэктную працу праграмы. Не змяняйце "
-#~ "іх, калі сапраўды не ўпэўнены ў тым, што робіце."
-
 #~ msgid "Drawings"
 #~ msgstr "Рысункі"
+

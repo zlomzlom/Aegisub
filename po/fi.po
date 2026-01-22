@@ -6127,6 +6127,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Näiden asetusten muuttaminen saattaa aiheuttaa virheitä ja/tai "
+"kaatumisia. Älä koske, jos et tiedä tarkalleen, mitä olet tekemässä."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7278,12 +7280,6 @@ msgstr ""
 #~ "Kun valittu, fontin alla on suorakulmion muotoinen peittävä tausta varjon "
 #~ "sijasta"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Näiden asetusten muuttaminen saattaa aiheuttaa virheitä ja/tai "
-#~ "kaatumisia. Älä koske, jos et tiedä tarkalleen, mitä olet tekemässä."
-
 #~ msgid "Drawings"
 #~ msgstr "Piirrokset"
+

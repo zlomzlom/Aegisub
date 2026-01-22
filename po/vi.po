@@ -6083,6 +6083,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Thay đổi những cài đặt này có thể dẫn đến lỗi và/hoặc sập chương trình. "
+"Không nên chỉnh trừ khi bạn biết bạn đang làm gì."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7199,12 +7201,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Khi được chọn, một hộp nền sẽ hiển thị sau phụ đề thay cho viền xung quanh"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Thay đổi những cài đặt này có thể dẫn đến lỗi và/hoặc sập chương trình. "
-#~ "Không nên chỉnh trừ khi bạn biết bạn đang làm gì."
-
 #~ msgid "Drawings"
 #~ msgstr "Mã hình vẽ"
+

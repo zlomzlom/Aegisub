@@ -6060,6 +6060,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Зміна цих налашувань може призвести до баґів і/або краху. Не чіпайте їх, "
+"якщо не усвідомлюєте своїх дій."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7188,12 +7190,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Якщо позначено, субтитри буде обведено не за контуром, а прямокутником"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Зміна цих налашувань може призвести до баґів і/або краху. Не чіпайте їх, "
-#~ "якщо не усвідомлюєте своїх дій."
-
 #~ msgid "Drawings"
 #~ msgstr "Малювання"
+

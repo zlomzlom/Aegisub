@@ -5996,6 +5996,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"تغيير هذه الإعدادات لربما يتسبب في علل و/أو انهيارات. لا تقربها إلا إن "
+"كنت تعلم ما تفعل."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7069,10 +7071,3 @@ msgstr ""
 #, c-format
 #~ msgid "%s frames"
 #~ msgstr "%s من الإطارات"
-
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "تغيير هذه الإعدادات لربما يتسبب في علل و/أو انهيارات. لا تقربها إلا إن "
-#~ "كنت تعلم ما تفعل."

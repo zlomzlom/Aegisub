@@ -6071,6 +6071,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Ezarpen hauek aldatzeak akatsak eta/edo, matxurak eragin ditzake. Ez "
+"ikutu hau zer egiten ari zaren badakizu izan ezik."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7207,12 +7209,6 @@ msgstr ""
 #~ "Hautatuz, kutxa argikaitz bat erakusten du azpidatziaren atzean "
 #~ "idazkiaren inguru baten ordez"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Ezarpen hauek aldatzeak akatsak eta/edo, matxurak eragin ditzake. Ez "
-#~ "ikutu hau zer egiten ari zaren badakizu izan ezik."
-
 #~ msgid "Drawings"
 #~ msgstr "Marrazkiak"
+

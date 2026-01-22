@@ -6106,6 +6106,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Modifier ces réglages peut générer des bogues ou des plantages. Ne "
+"modifier que si vous savez ce que vous faites."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7249,12 +7251,6 @@ msgstr ""
 #~ "Lorsque sélectionné, affiche une boîte opaque derrière les sous-titres à "
 #~ "la place du contour du texte"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Modifier ces réglages peut générer des bogues ou des plantages. Ne "
-#~ "modifier que si vous savez ce que vous faites."
-
 #~ msgid "Drawings"
 #~ msgstr "Dessins"
+

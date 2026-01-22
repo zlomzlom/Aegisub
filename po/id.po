@@ -6047,6 +6047,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Mengubah pengaturan ini dapat mengakibatkan kerusakan fatal atau galat! "
+"Jangan sentuh kecuali Anda tahu apa yang Anda lakukan."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7179,12 +7181,6 @@ msgstr ""
 #~ "Ketika dipilih, tampilan kotak buram akan berada di belakang takarir, "
 #~ "bukan disekitar garis luar teks."
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Mengubah pengaturan ini dapat mengakibatkan kerusakan fatal atau galat! "
-#~ "Jangan sentuh kecuali Anda tahu apa yang Anda lakukan."
-
 #~ msgid "Drawings"
 #~ msgstr "Gambar-gambar"
+

@@ -6101,6 +6101,8 @@ msgid ""
 "Changing these settings might result in bugs and/or crashes. Do not touch "
 "these unless you know what you're doing."
 msgstr ""
+"Alterar essas configurações pode resultar em erros e/ou travamentos. Não "
+"modifique estas opções se não souber o que está fazendo."
 
 #: ../src/preferences.cpp:382 ../src/preferences.cpp:449
 msgid "Expert"
@@ -7259,12 +7261,6 @@ msgstr ""
 #~ "Quando selecionado, utiliza uma caixa opaca atrás das legendas em vez da "
 #~ "borda em volta do texto"
 
-#~ msgid ""
-#~ "Changing these settings might result in bugs and/or crashes.  Do not "
-#~ "touch these unless you know what you're doing."
-#~ msgstr ""
-#~ "Alterar essas configurações pode resultar em erros e/ou travamentos. Não "
-#~ "modifique estas opções se não souber o que está fazendo."
-
 #~ msgid "Drawings"
 #~ msgstr "Desenhos"
+
