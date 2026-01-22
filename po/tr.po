@@ -3646,7 +3646,7 @@ msgstr "Komutlar"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Kanjiye interpole &etmeye çalış"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7224,9 +7224,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Kanji zamanlama"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Kanjiye interpole &etmeye çalış."
 
 #, c-format
 #~ msgid "%s frames"

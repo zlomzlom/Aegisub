@@ -2990,6 +2990,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"腳本資訊：\n"
+"名稱： %s\n"
+"描述： %s\n"
+"作者： %s\n"
+"版本： %s\n"
+"完整路徑： %s\n"
+"狀態： %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3562,7 +3570,7 @@ msgstr "指令"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "嘗試插入漢字(&I)"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7067,9 +7075,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "漢字計時器"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "嘗試插入漢字。(&I)"
 
 #, c-format
 #~ msgid "%s frames"

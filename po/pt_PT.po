@@ -3056,6 +3056,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Informação do documento:\n"
+"Nome: %s\n"
+"Descrição: %s\n"
+"Autor: %s\n"
+"Versão: %s\n"
+"Caminho completo: %s\n"
+"Estado: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3635,7 +3643,7 @@ msgstr "Comandos"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Tentar intercalar os kanji"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7224,9 +7232,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Temporizador de Kanji"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Tentar intercalar os kanji."
 
 #, c-format
 #~ msgid "%s frames"

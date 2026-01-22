@@ -3022,6 +3022,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Informasi skrip:\n"
+"Nama: %s\n"
+"Deskripsi: %s\n"
+"Penulis: %s\n"
+"Versi: %s\n"
+"Lokasi berkas: %s\n"
+"Status: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3596,7 +3604,7 @@ msgstr "Perintah"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Sisipkan ke kanji"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7163,9 +7171,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Tempo Kanji"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Sisipkan ke kanji."
 
 #, c-format
 #~ msgid "%s frames"

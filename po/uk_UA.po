@@ -3019,6 +3019,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Інформація про скрипт:\n"
+"Назва: %s\n"
+"Опис: %s\n"
+"Автор: %s\n"
+"Версія: %s\n"
+"Повний шлях: %s\n"
+"Статус: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3597,7 +3605,7 @@ msgstr "Команди"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Намагатися розпізнати &канджі"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7173,9 +7181,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Таймінґ канджі"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Намагатися розпізнати &канджі."
 
 #, c-format
 #~ msgid "%s frames"

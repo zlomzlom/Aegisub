@@ -3070,6 +3070,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Πληροφορίες script:\n"
+"Όνομα: %s\n"
+"Περιγραφή: %s\n"
+"Δημιουργός: %s\n"
+"Έκδοση: %s\n"
+"Πλήρης διαδρομή: %s\n"
+"Κατάσταση: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3650,7 +3658,7 @@ msgstr "Εντολές"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Απόπειρα εισαγωγής kanji"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7254,9 +7262,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Χρονισμός Kanji"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Απόπειρα εισαγωγής kanji."
 
 #, c-format
 #~ msgid "%s frames"

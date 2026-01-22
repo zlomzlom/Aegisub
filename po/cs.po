@@ -2991,6 +2991,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Informace o skriptu:\n"
+"Název: %s\n"
+"Popis: %s\n"
+"Autor: %s\n"
+"Verze: %s\n"
+"Umístění: %s\n"
+"Stav: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3569,7 +3577,7 @@ msgstr "Příkazy"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Pokus o interpolaci kanji"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7125,9 +7133,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Časovač Kanji"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Pokus o interpolaci kanji."
 
 #, c-format
 #~ msgid "%s frames"

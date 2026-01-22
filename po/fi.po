@@ -3049,6 +3049,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Skriptin tiedot:\n"
+"Nimi: %s\n"
+"Kuvaus: %s\n"
+"Tekijä: %s\n"
+"Versio: %s\n"
+"Polku: %s\n"
+"Tila: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3630,7 +3638,7 @@ msgstr "Komennot"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "&Yritä interpoloida kanjia"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7261,9 +7269,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Kanjiajoitus"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "&Yritä interpoloida kanjia."
 
 #, c-format
 #~ msgid "%s frames"

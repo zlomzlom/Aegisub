@@ -3045,6 +3045,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Thông tin script:\n"
+"Tên: %s\n"
+"Mô tả: %s\n"
+"Tác giả: %s\n"
+"Phiên bản: %s\n"
+"Đường dẫn: %s\n"
+"Trạng thái: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3623,7 +3631,7 @@ msgstr "Lệnh"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Xen kanji"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7184,9 +7192,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Căn thời gian Kanji"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Xen kanji."
 
 #, c-format
 #~ msgid "%s frames"

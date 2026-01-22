@@ -3067,6 +3067,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Informació de l’script:\n"
+"Nom: %s\n"
+"Descripció: %s\n"
+"Autor: %s\n"
+"Versió: %s\n"
+"Camí complet: %s\n"
+"Estat: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3644,7 +3652,7 @@ msgstr "Ordres"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "Mira d’inter&polar els kanjis"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7255,9 +7263,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Creació de temps per a kanjis"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "Mira d’inter&polar els kanjis."
 
 #, c-format
 #~ msgid "%s frames"

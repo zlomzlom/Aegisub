@@ -3036,6 +3036,14 @@ msgid ""
 "Full path: %s\n"
 "State: %s\n"
 msgstr ""
+"\n"
+"Eskript argibideak:\n"
+"Izena: %s\n"
+"Azalpena: %s\n"
+"Egilea: %s\n"
+"Bertsioa: %s\n"
+"Helburu osoa: %s\n"
+"Egoera: %s\n"
 
 #: ../src/dialog_automation.cpp:297
 msgid "Correctly loaded"
@@ -3612,7 +3620,7 @@ msgstr "Komandoak"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "&Kanji interpolazio saiakera"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7191,9 +7199,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "Kanji denborapena"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "&Kanji interpolazio saiakera."
 
 #, c-format
 #~ msgid "%s frames"

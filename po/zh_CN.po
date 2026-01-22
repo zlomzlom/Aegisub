@@ -3570,7 +3570,7 @@ msgstr "指令"
 
 #: ../src/dialog_kara_timing_copy.cpp:408
 msgid "Attempt to &interpolate kanji"
-msgstr ""
+msgstr "尝试识别汉字(&I)"
 
 #: ../src/dialog_kara_timing_copy.cpp:415
 msgid ""
@@ -7035,9 +7035,6 @@ msgstr ""
 
 #~ msgid "Kanji timing"
 #~ msgstr "汉字K值配对"
-
-#~ msgid "Attempt to &interpolate kanji."
-#~ msgstr "尝试识别汉字(&I)。"
 
 #, c-format
 #~ msgid "%s frames"
